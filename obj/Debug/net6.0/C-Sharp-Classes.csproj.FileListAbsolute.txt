@@ -1,0 +1,15 @@
+/home/aysha/C-Sharp-Classes/bin/Debug/net6.0/C-Sharp-Classes
+/home/aysha/C-Sharp-Classes/bin/Debug/net6.0/C-Sharp-Classes.deps.json
+/home/aysha/C-Sharp-Classes/bin/Debug/net6.0/C-Sharp-Classes.runtimeconfig.json
+/home/aysha/C-Sharp-Classes/bin/Debug/net6.0/C-Sharp-Classes.dll
+/home/aysha/C-Sharp-Classes/bin/Debug/net6.0/C-Sharp-Classes.pdb
+/home/aysha/C-Sharp-Classes/obj/Debug/net6.0/C-Sharp-Classes.csproj.AssemblyReference.cache
+/home/aysha/C-Sharp-Classes/obj/Debug/net6.0/C-Sharp-Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/aysha/C-Sharp-Classes/obj/Debug/net6.0/C-Sharp-Classes.AssemblyInfoInputs.cache
+/home/aysha/C-Sharp-Classes/obj/Debug/net6.0/C-Sharp-Classes.AssemblyInfo.cs
+/home/aysha/C-Sharp-Classes/obj/Debug/net6.0/C-Sharp-Classes.csproj.CoreCompileInputs.cache
+/home/aysha/C-Sharp-Classes/obj/Debug/net6.0/C-Sharp-Classes.dll
+/home/aysha/C-Sharp-Classes/obj/Debug/net6.0/refint/C-Sharp-Classes.dll
+/home/aysha/C-Sharp-Classes/obj/Debug/net6.0/C-Sharp-Classes.pdb
+/home/aysha/C-Sharp-Classes/obj/Debug/net6.0/C-Sharp-Classes.genruntimeconfig.cache
+/home/aysha/C-Sharp-Classes/obj/Debug/net6.0/ref/C-Sharp-Classes.dll
